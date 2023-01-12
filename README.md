@@ -1,3 +1,7 @@
+<div align="right"
+     
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=bishwofic.bishwofic)
+</div>
 <b>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -30,7 +34,9 @@
 </div>
 <br>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bishwofic.bishwofic)
+<a href="https://paypal.me/bishwofic" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal" align="center" />
+</a>
 
 <h2> About Me:</h2>
 
@@ -85,12 +91,12 @@
 <br>
   
 <h2> Languages: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwofic&theme=buefy&border_radius=10"/></a>
+<a href="https://github.com/bishwofic/github-profile-stats">
+<img align="center" src="https://bishwofic-github-profile-stats.vercel.app/api/top-langs/?username=bishwofic&theme=buefy&border_radius=10"/></a>
 <br>
 <br>
 <h2> Statistics: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwofic&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Bishwo's GitHub Stats" /></a>
+<a href="https://github.com/bishwofic/github-profile-stats"><img align="center" src="https://bishwofic-github-profile-stats.vercel.app/api?username=bishwofic&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Bishwo's GitHub Stats" /></a>
 <br>
 <br>
 <h2 align = "left"> Humour: </h2>
