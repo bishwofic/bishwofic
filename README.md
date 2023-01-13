@@ -5,31 +5,31 @@
 <b>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h3>🤖 Hi, I'm Bishwo 🤖</h3>
+<br>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=35&pause=1000&center=true&color=0C8AD2&vCenter=true&width=435&lines=Hey,+I'm+Bishwo+!!" alt="Typing SVG" /></a>  
 <h4>A Passionate Student/Developer from Nepal.</h4> 
 </div>
 
 <div align="center" id="social">
   <a href="https://facebook.com/bishwofic">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://instagram.com/bishwofic">
-    <img src="https://img.shields.io/badge/Instagram-critical?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/bishwofic">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
-<div align="center" id="social">
-  <a href="https://linkedin.com/in/bishwofic">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://reddit.com/u/bishwofic">
-    <img src="https://img.shields.io/badge/Reddit-critical?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
+  <br>
   <a href="https://t.me/bishwofic">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+   <a href="https://unfilteredpovs.blogspot.com">
+    <img src="https://img.shields.io/badge/UBlogger-red?style=flat&logo=blogger&logoColor=white" alt="Blogger Badge"/>
+  </a>
+   <a href="https://linkedin.com/in/bishwofic">
+    <img src="https://img.shields.io/badge/Linkedin-informational?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <br>
@@ -42,8 +42,7 @@
 
   <h3> Playing: </h3>
   
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nrwitkliplqjruvmjjvsd6l7ni&cover_image=true&theme=natemoo-re&show_offline=false&background_color=35363a&bar_color=0D1117&bar_color_cover=true)  
-  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nrwitkliplqjruvmjjvsd6l7ni&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=38780d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   <h3> Currently: </h3>
   
   - JAVA Developer Intern at InfoxIT Pvt. Ltd.
