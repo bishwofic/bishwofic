@@ -1,6 +1,6 @@
 <div align="right"
      
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bishwofic.bishwofic)
+![](https://komarev.com/ghpvc/?username=bishwofic)
 </div>
 <b>
 <div id="header" align="center">
