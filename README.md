@@ -43,7 +43,7 @@
   I run mostly on tea, LaTeX, and thoughts. I'm currently a Graduate Research Student at the University of Technology Sydney, where I'm exploring how insurance can help secure IoT infrastructures. I’m working on unraveling complex problems, especially how cybersecurity intersects with IoT risks and mitigation strategies.
 </p>
 <p>
-  I'm also an Android ROM enthusiast—when stock Android doesn’t give enough, I roll my own. My work at CherishOS keeps me busy pushing boundaries with custom ROMs, particularly for devices like the Redmi Note 8 Pro. Beyond that, I dabble in things like ethical hacking, cloud tech (Azure and AWS), and occasionally sprinkle in some DevOps magic.
+  I'm also an Android ROM enthusiast. My work at CherishOS keeps me busy pushing boundaries with custom ROMs, particularly for devices like the Redmi Note 8 Pro. Beyond that, I dabble in things like ethical hacking, cloud tech (Azure and AWS), and occasionally sprinkle in some DevOps magic.
 </p>
 <p>
   PhD-level work? Absolutely. Math and stats? Let’s just say I’m not a fan, but I’ll handle them if they help me find answers.
@@ -51,12 +51,11 @@
   © <a href="https://bishwofic.github.io"> bishwofic</a> 2025.
 </p>
 
-<!-- Spotify Section -->
+<!-- Apple Music Section -->
 <h2></h2>
 <h3>🎧 Listening to:</h3>
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nrwitkliplqjruvmjjvsd6l7ni&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=38780d&bar_color_cover=true" alt="Spotify Now Playing" />
-</a>
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000431.c80dcfbe9b944e798311be3fae51bc78.2021)](https://music-profile.rayriffy.com)
 
 <!-- Currently Section -->
 ### 📌 Currently:
